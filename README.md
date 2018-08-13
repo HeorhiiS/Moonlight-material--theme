@@ -8,6 +8,3 @@
 ## Install material theme before using.
 
 
-
-
-Modification of the material theme  for Atom
